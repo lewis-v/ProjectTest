@@ -1,1 +1,1 @@
-include ':yeventbus'
+include ':yeventbus', ':myapplication'
